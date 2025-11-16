@@ -13,8 +13,8 @@ int main()
     Car myCar;
 
     myCar.setBrand("BMW");
-    myCar.setModel("i8");
-    myCar.setYearModel(2016);
+    myCar.setModel("320i");
+    myCar.setYearModel(2007);
 
     myCar.printData();
 
